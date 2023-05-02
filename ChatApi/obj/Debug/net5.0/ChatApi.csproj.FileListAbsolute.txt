@@ -1,0 +1,11 @@
+F:\Documents\C# Scripts\RestServerClientArchitektur\ChatApi\bin\Debug\net5.0\ChatApi.deps.json
+F:\Documents\C# Scripts\RestServerClientArchitektur\ChatApi\bin\Debug\net5.0\ChatApi.dll
+F:\Documents\C# Scripts\RestServerClientArchitektur\ChatApi\bin\Debug\net5.0\ref\ChatApi.dll
+F:\Documents\C# Scripts\RestServerClientArchitektur\ChatApi\bin\Debug\net5.0\ChatApi.pdb
+F:\Documents\C# Scripts\RestServerClientArchitektur\ChatApi\obj\Debug\net5.0\ChatApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documents\C# Scripts\RestServerClientArchitektur\ChatApi\obj\Debug\net5.0\ChatApi.AssemblyInfoInputs.cache
+F:\Documents\C# Scripts\RestServerClientArchitektur\ChatApi\obj\Debug\net5.0\ChatApi.AssemblyInfo.cs
+F:\Documents\C# Scripts\RestServerClientArchitektur\ChatApi\obj\Debug\net5.0\ChatApi.csproj.CoreCompileInputs.cache
+F:\Documents\C# Scripts\RestServerClientArchitektur\ChatApi\obj\Debug\net5.0\ChatApi.dll
+F:\Documents\C# Scripts\RestServerClientArchitektur\ChatApi\obj\Debug\net5.0\ref\ChatApi.dll
+F:\Documents\C# Scripts\RestServerClientArchitektur\ChatApi\obj\Debug\net5.0\ChatApi.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "15PLTf88T7V4v355j2reWg8kABuJMKWxOFKlB+CeiWFu6LqkgReyEcfkpMeVqymgpyc2oxDXGnb06d05yZx/jQ==",
+  "success": true,
+  "projectFilePath": "F:\\Documents\\C# Scripts\\RestServerClientArchitektur\\RestApi\\RestApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\John\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

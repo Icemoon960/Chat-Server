@@ -1,0 +1,9 @@
+F:\Documents\C# Scripts\RestServerClientArchitektur\ChatApi\bin\Debug\netcoreapp3.1\ChatApi.deps.json
+F:\Documents\C# Scripts\RestServerClientArchitektur\ChatApi\bin\Debug\netcoreapp3.1\ChatApi.dll
+F:\Documents\C# Scripts\RestServerClientArchitektur\ChatApi\bin\Debug\netcoreapp3.1\ChatApi.pdb
+F:\Documents\C# Scripts\RestServerClientArchitektur\ChatApi\obj\Debug\netcoreapp3.1\ChatApi.csprojAssemblyReference.cache
+F:\Documents\C# Scripts\RestServerClientArchitektur\ChatApi\obj\Debug\netcoreapp3.1\ChatApi.AssemblyInfoInputs.cache
+F:\Documents\C# Scripts\RestServerClientArchitektur\ChatApi\obj\Debug\netcoreapp3.1\ChatApi.AssemblyInfo.cs
+F:\Documents\C# Scripts\RestServerClientArchitektur\ChatApi\obj\Debug\netcoreapp3.1\ChatApi.csproj.CoreCompileInputs.cache
+F:\Documents\C# Scripts\RestServerClientArchitektur\ChatApi\obj\Debug\netcoreapp3.1\ChatApi.dll
+F:\Documents\C# Scripts\RestServerClientArchitektur\ChatApi\obj\Debug\netcoreapp3.1\ChatApi.pdb

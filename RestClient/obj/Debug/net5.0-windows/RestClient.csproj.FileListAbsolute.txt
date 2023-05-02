@@ -1,0 +1,6 @@
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestClient\obj\Debug\net5.0-windows\RestClient.csprojAssemblyReference.cache
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestClient\obj\Debug\net5.0-windows\Views\MainWindowView.g.cs
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestClient\obj\Debug\net5.0-windows\App.g.cs
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestClient\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestClient\obj\Debug\net5.0-windows\RestClient_MarkupCompile.cache
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestClient\obj\Debug\net5.0-windows\RestClient_MarkupCompile.lref

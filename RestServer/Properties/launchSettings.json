@@ -1,0 +1,23 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:50000",
+      "sslPort": 0
+    }
+  },
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "RestServerClient": {
+      "commandName": "Project",
+      "launchUrl": "Chat/Test",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "ASPNETCORE_URLS": "http://*:50000",
+        "ASPNETCORE_SERVER.URLS": "http://*:50000"
+      },
+      "applicationUrl": "http://localhost:50000"
+    }
+  }
+}

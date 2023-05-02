@@ -1,0 +1,4 @@
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestApi\obj\Debug\netcoreapp3.1\RestApi.csprojAssemblyReference.cache
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestApi\obj\Debug\netcoreapp3.1\RestApi.AssemblyInfoInputs.cache
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestApi\obj\Debug\netcoreapp3.1\RestApi.AssemblyInfo.cs
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestApi\obj\Debug\netcoreapp3.1\RestApi.csproj.CoreCompileInputs.cache

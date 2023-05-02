@@ -1,0 +1,86 @@
+F:\Documents\GitHub\RestServerClient-main\RestServer\bin\Debug\net5.0\appsettings.Development.json
+F:\Documents\GitHub\RestServerClient-main\RestServer\bin\Debug\net5.0\appsettings.json
+F:\Documents\GitHub\RestServerClient-main\RestServer\bin\Debug\net5.0\RestServer.exe
+F:\Documents\GitHub\RestServerClient-main\RestServer\bin\Debug\net5.0\RestServer.deps.json
+F:\Documents\GitHub\RestServerClient-main\RestServer\bin\Debug\net5.0\RestServer.runtimeconfig.json
+F:\Documents\GitHub\RestServerClient-main\RestServer\bin\Debug\net5.0\RestServer.runtimeconfig.dev.json
+F:\Documents\GitHub\RestServerClient-main\RestServer\bin\Debug\net5.0\RestServer.dll
+F:\Documents\GitHub\RestServerClient-main\RestServer\bin\Debug\net5.0\ref\RestServer.dll
+F:\Documents\GitHub\RestServerClient-main\RestServer\bin\Debug\net5.0\RestServer.pdb
+F:\Documents\GitHub\RestServerClient-main\RestServer\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Documents\GitHub\RestServerClient-main\RestServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Documents\GitHub\RestServerClient-main\RestServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Documents\GitHub\RestServerClient-main\RestServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+F:\Documents\GitHub\RestServerClient-main\RestServer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Documents\GitHub\RestServerClient-main\RestServer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Documents\GitHub\RestServerClient-main\RestServer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Documents\GitHub\RestServerClient-main\RestServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Documents\GitHub\RestServerClient-main\RestServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Documents\GitHub\RestServerClient-main\RestServer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Documents\GitHub\RestServerClient-main\RestServer\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Documents\GitHub\RestServerClient-main\RestServer\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Documents\GitHub\RestServerClient-main\RestServer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Documents\GitHub\RestServerClient-main\RestServer\bin\Debug\net5.0\ChatApi.dll
+F:\Documents\GitHub\RestServerClient-main\RestServer\bin\Debug\net5.0\RestApi.dll
+F:\Documents\GitHub\RestServerClient-main\RestServer\bin\Debug\net5.0\RestChatApi.dll
+F:\Documents\GitHub\RestServerClient-main\RestServer\bin\Debug\net5.0\ChatApi.pdb
+F:\Documents\GitHub\RestServerClient-main\RestServer\bin\Debug\net5.0\RestApi.pdb
+F:\Documents\GitHub\RestServerClient-main\RestServer\bin\Debug\net5.0\RestChatApi.pdb
+F:\Documents\GitHub\RestServerClient-main\RestServer\obj\Debug\net5.0\RestServer.csprojAssemblyReference.cache
+F:\Documents\GitHub\RestServerClient-main\RestServer\obj\Debug\net5.0\RestServer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documents\GitHub\RestServerClient-main\RestServer\obj\Debug\net5.0\RestServer.AssemblyInfoInputs.cache
+F:\Documents\GitHub\RestServerClient-main\RestServer\obj\Debug\net5.0\RestServer.AssemblyInfo.cs
+F:\Documents\GitHub\RestServerClient-main\RestServer\obj\Debug\net5.0\RestServer.csproj.CoreCompileInputs.cache
+F:\Documents\GitHub\RestServerClient-main\RestServer\obj\Debug\net5.0\RestServer.MvcApplicationPartsAssemblyInfo.cache
+F:\Documents\GitHub\RestServerClient-main\RestServer\obj\Debug\net5.0\staticwebassets\RestServer.StaticWebAssets.Manifest.cache
+F:\Documents\GitHub\RestServerClient-main\RestServer\obj\Debug\net5.0\staticwebassets\RestServer.StaticWebAssets.xml
+F:\Documents\GitHub\RestServerClient-main\RestServer\obj\Debug\net5.0\scopedcss\bundle\RestServer.styles.css
+F:\Documents\GitHub\RestServerClient-main\RestServer\obj\Debug\net5.0\RestServer.RazorTargetAssemblyInfo.cache
+F:\Documents\GitHub\RestServerClient-main\RestServer\obj\Debug\net5.0\RestServer.csproj.CopyComplete
+F:\Documents\GitHub\RestServerClient-main\RestServer\obj\Debug\net5.0\RestServer.dll
+F:\Documents\GitHub\RestServerClient-main\RestServer\obj\Debug\net5.0\ref\RestServer.dll
+F:\Documents\GitHub\RestServerClient-main\RestServer\obj\Debug\net5.0\RestServer.pdb
+F:\Documents\GitHub\RestServerClient-main\RestServer\obj\Debug\net5.0\RestServer.genruntimeconfig.cache
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\bin\Debug\net5.0\appsettings.Development.json
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\bin\Debug\net5.0\appsettings.json
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\bin\Debug\net5.0\RestServer.exe
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\bin\Debug\net5.0\RestServer.deps.json
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\bin\Debug\net5.0\RestServer.runtimeconfig.json
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\bin\Debug\net5.0\RestServer.runtimeconfig.dev.json
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\bin\Debug\net5.0\RestServer.dll
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\bin\Debug\net5.0\ref\RestServer.dll
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\bin\Debug\net5.0\RestServer.pdb
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\bin\Debug\net5.0\ChatApi.dll
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\bin\Debug\net5.0\RestApi.dll
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\bin\Debug\net5.0\RestChatApi.dll
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\bin\Debug\net5.0\ChatApi.pdb
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\bin\Debug\net5.0\RestApi.pdb
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\bin\Debug\net5.0\RestChatApi.pdb
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\obj\Debug\net5.0\RestServer.csprojAssemblyReference.cache
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\obj\Debug\net5.0\RestServer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\obj\Debug\net5.0\RestServer.AssemblyInfoInputs.cache
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\obj\Debug\net5.0\RestServer.AssemblyInfo.cs
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\obj\Debug\net5.0\RestServer.csproj.CoreCompileInputs.cache
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\obj\Debug\net5.0\RestServer.MvcApplicationPartsAssemblyInfo.cache
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\obj\Debug\net5.0\staticwebassets\RestServer.StaticWebAssets.Manifest.cache
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\obj\Debug\net5.0\staticwebassets\RestServer.StaticWebAssets.xml
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\obj\Debug\net5.0\scopedcss\bundle\RestServer.styles.css
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\obj\Debug\net5.0\RestServer.RazorTargetAssemblyInfo.cache
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\obj\Debug\net5.0\RestServer.csproj.CopyComplete
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\obj\Debug\net5.0\RestServer.dll
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\obj\Debug\net5.0\ref\RestServer.dll
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\obj\Debug\net5.0\RestServer.pdb
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestServer\obj\Debug\net5.0\RestServer.genruntimeconfig.cache

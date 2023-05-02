@@ -1,0 +1,17 @@
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestChatApi\bin\Debug\net5.0\RestChatApi.deps.json
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestChatApi\bin\Debug\net5.0\RestChatApi.dll
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestChatApi\bin\Debug\net5.0\ref\RestChatApi.dll
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestChatApi\bin\Debug\net5.0\RestChatApi.pdb
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestChatApi\bin\Debug\net5.0\ChatApi.dll
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestChatApi\bin\Debug\net5.0\RestApi.dll
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestChatApi\bin\Debug\net5.0\ChatApi.pdb
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestChatApi\bin\Debug\net5.0\RestApi.pdb
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestChatApi\obj\Debug\net5.0\RestChatApi.csprojAssemblyReference.cache
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestChatApi\obj\Debug\net5.0\RestChatApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestChatApi\obj\Debug\net5.0\RestChatApi.AssemblyInfoInputs.cache
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestChatApi\obj\Debug\net5.0\RestChatApi.AssemblyInfo.cs
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestChatApi\obj\Debug\net5.0\RestChatApi.csproj.CoreCompileInputs.cache
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestChatApi\obj\Debug\net5.0\RestChatApi.csproj.CopyComplete
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestChatApi\obj\Debug\net5.0\RestChatApi.dll
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestChatApi\obj\Debug\net5.0\ref\RestChatApi.dll
+F:\Documents\C# Scripts\RestServerClientArchitektur\RestChatApi\obj\Debug\net5.0\RestChatApi.pdb
